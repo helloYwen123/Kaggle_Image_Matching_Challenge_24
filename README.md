@@ -1,12 +1,16 @@
 # Kaggle_Image_Matching_Challenge_24
 
-This repository contains our solution for the [_"Image Matching Challenge 2024 - Hexathlon"_](https://www.kaggle.com/competitions/image-matching-challenge-2024) Kaggle competition, where we achieved a **silver medal**.
+This repository contains our solution for the [_"Image Matching Challenge 2024 - Hexathlon"_](https://www.kaggle.com/competitions/image-matching-challenge-2024) Kaggle competition, where we achieved a 🚀**silver medal**.
 
-## Algorithm Overview
+## 🤠Algorithm Overview
 
 ![Overall of algorithm.](https://github.com/helloYwen123/Kaggle_Image_Matching_Challenge_24/blob/main/files/output.png)
-![Algorithm Details.]()
-Our approach consists of three main stages:
+## 🧐Algorithm Details
+![Algorithm Details](https://raw.githubusercontent.com/helloYwen123/Kaggle_Image_Matching_Challenge_24/main/files/Selection_020.png)
+
+![Algorithm Details 2](https://raw.githubusercontent.com/helloYwen123/Kaggle_Image_Matching_Challenge_24/main/files/Selection_021.png)
+
+### 🧐Our approach consists of three main stages:
 
 ### 1. Image Retrieval
 We retrieve images from various 3D scene datasets using pre-trained EfficientNet-B6 & B7 models from ImageNet to extract image features. The cosine distance metric is used to rank images based on similarity, selecting the top **n** images for each scene.
@@ -40,5 +44,5 @@ If you find our work helpful, please consider citing:
 }
 ```
 
-We appreciate your interest in our work!
+Appreciate your interest in our work!
 
