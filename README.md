@@ -4,7 +4,7 @@ This repository contains our solution for the [_"Image Matching Challenge 2024 -
 
 ## Algorithm Overview
 
-![Overall of algorithm.]()
+![Overall of algorithm.](https://github.com/helloYwen123/Kaggle_Image_Matching_Challenge_24/blob/main/files/output.png)
 ![Algorithm Details.]()
 Our approach consists of three main stages:
 
