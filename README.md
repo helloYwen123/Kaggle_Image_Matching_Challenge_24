@@ -1,6 +1,6 @@
 # 👉 	Kaggle Image Matching Challenge 2024
 
-This repository contains our solution for the [_"Image Matching Challenge 2024 - Hexathlon"_](https://www.kaggle.com/competitions/image-matching-challenge-2024) Kaggle competition, where we achieved a 🥈**silver medal**(TOP:2.5%)！.
+This repository contains our solution for the [_"Image Matching Challenge 2024 - Hexathlon"_](https://www.kaggle.com/competitions/image-matching-challenge-2024) Kaggle competition, where we achieved a 🥈**silver medal**！ (TOP:2.5%) .
 
 ## 🤠 Algorithm Overview
 
